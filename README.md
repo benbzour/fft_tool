@@ -1,6 +1,6 @@
 # fft_tool
 
-mySQL parser. 
+FFT samples using mySQL parser. 
 
 takes wav files in a folder, runs FFT on them, and dumps them into table.
 1) table 1 has meta-data of each sample 
