@@ -1,6 +1,6 @@
-# fft_tool
+#Audio analysis
 
-FFT samples using mySQL parser. 
+analyzing audio data and its spectral data, to then parse and organize into a database. 
 
 takes wav files in a folder, runs FFT on them, and dumps them into table.
 1) table 1 has meta-data of each sample 
